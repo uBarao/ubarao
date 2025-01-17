@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on making a Raspberry Pi Computer<br>🌱 I’m currently learning Golang<br>💬 Ask me about... me, hehe<br>⚡ Fun fact: I play A LOT of tabletop RPG
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/robson-uszacki/) 
 
